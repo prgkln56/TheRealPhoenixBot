@@ -9,7 +9,7 @@ If you want to create your own bot, you can basically follow the steps given [he
 
 OR
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/rsktg/TheRealPhoenixBot.git)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/prgkln56/TheRealPhoenixBot.git)
 
 ## Credits
 • [SkittBot](https://github.com/skittles9823/SkittBot) for stickers module.
@@ -17,7 +17,7 @@ OR
 • MrYacha, Ayra Hikari and Mizukito Akito for Federations.
 • 1maverick1 for welcome mutes.
 
-For the link to the old repo containing all the commit history and authorships, [click here](https://github.com/prgkln56/Phoenix.git)
+For the link to the old repo containing all the commit history and authorships, [click here](https://github.com/rsktg/Phoenix.git)
 
 ## Notice
 No new features will be added to this project anymore, however occasional bug fixes will be released.
